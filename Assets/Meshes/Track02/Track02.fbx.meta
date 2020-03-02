@@ -1,0 +1,503 @@
+fileFormatVersion: 2
+guid: e986f2ee1f9a9374b9dfb0ec39b0cd92
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: brakes003
+    100002: brakes004
+    100004: brakes1
+    100006: brakes2
+    100008: Capacitor01
+    100010: Capacitor02
+    100012: Capacitor03
+    100014: Capacitor04
+    100016: Capacitor05
+    100018: Capacitor06
+    100020: Capacitor07
+    100022: Capacitor08
+    100024: Capacitor09
+    100026: Capacitor10
+    100028: Capacitor11
+    100030: Capacitor12
+    100032: Capacitor13
+    100034: Capacitor14
+    100036: Capacitor15
+    100038: Capacitor16
+    100040: Capacitor17
+    100042: Capacitor18
+    100044: Capacitor19
+    100046: Capacitor20
+    100048: Capacitor21
+    100050: Capacitor22
+    100052: Capacitor23
+    100054: Capacitor24
+    100056: Capacitor25
+    100058: Capacitor26
+    100060: Capacitor27
+    100062: Capacitor28
+    100064: Capacitor29
+    100066: Capacitor30
+    100068: Capacitor31
+    100070: Capacitor32
+    100072: Capacitor33
+    100074: Capacitor34
+    100076: Capacitor35
+    100078: Capacitor36
+    100080: Capacitor37
+    100082: Capacitor38
+    100084: Capacitors
+    100086: CARRERA
+    100088: curve2
+    100090: Disc
+    100092: front lamps
+    100094: left door glass
+    100096: left mirror
+    100098: left_door
+    100100: left_door_gloss
+    100102: matte1
+    100104: MIRRORS
+    100106: rear lamps
+    100108: right door glass
+    100110: right mirror
+    100112: right_door
+    100114: right_door_gloss
+    100116: rim003
+    100118: rim004
+    100120: rim1
+    100122: rim2
+    100124: spoiler1
+    100126: spoiler2
+    100128: steering_wheel
+    100130: //RootNode
+    100132: TrackBase
+    100134: tyre003
+    100136: tyre004
+    100138: tyre1
+    100140: tyre2
+    100142: windows
+    400000: brakes003
+    400002: brakes004
+    400004: brakes1
+    400006: brakes2
+    400008: Capacitor01
+    400010: Capacitor02
+    400012: Capacitor03
+    400014: Capacitor04
+    400016: Capacitor05
+    400018: Capacitor06
+    400020: Capacitor07
+    400022: Capacitor08
+    400024: Capacitor09
+    400026: Capacitor10
+    400028: Capacitor11
+    400030: Capacitor12
+    400032: Capacitor13
+    400034: Capacitor14
+    400036: Capacitor15
+    400038: Capacitor16
+    400040: Capacitor17
+    400042: Capacitor18
+    400044: Capacitor19
+    400046: Capacitor20
+    400048: Capacitor21
+    400050: Capacitor22
+    400052: Capacitor23
+    400054: Capacitor24
+    400056: Capacitor25
+    400058: Capacitor26
+    400060: Capacitor27
+    400062: Capacitor28
+    400064: Capacitor29
+    400066: Capacitor30
+    400068: Capacitor31
+    400070: Capacitor32
+    400072: Capacitor33
+    400074: Capacitor34
+    400076: Capacitor35
+    400078: Capacitor36
+    400080: Capacitor37
+    400082: Capacitor38
+    400084: Capacitors
+    400086: CARRERA
+    400088: curve2
+    400090: Disc
+    400092: front lamps
+    400094: left door glass
+    400096: left mirror
+    400098: left_door
+    400100: left_door_gloss
+    400102: matte1
+    400104: MIRRORS
+    400106: rear lamps
+    400108: right door glass
+    400110: right mirror
+    400112: right_door
+    400114: right_door_gloss
+    400116: rim003
+    400118: rim004
+    400120: rim1
+    400122: rim2
+    400124: spoiler1
+    400126: spoiler2
+    400128: steering_wheel
+    400130: //RootNode
+    400132: TrackBase
+    400134: tyre003
+    400136: tyre004
+    400138: tyre1
+    400140: tyre2
+    400142: windows
+    2100000: Default_Material
+    2100002: DiscMat
+    2100004: RibbonCableMat
+    2100006: CircuitMat
+    2100008: Circuit01_Corner30Mat
+    2100010: Circuit01_Corner90Mat
+    2100012: GuideRailMat
+    2100014: CapacitorsMat
+    2100016: phong1
+    2100018: RainbowPanelMat
+    2300000: brakes003
+    2300002: brakes004
+    2300004: brakes1
+    2300006: brakes2
+    2300008: Capacitor01
+    2300010: Capacitor02
+    2300012: Capacitor03
+    2300014: Capacitor04
+    2300016: Capacitor05
+    2300018: Capacitor06
+    2300020: Capacitor07
+    2300022: Capacitor08
+    2300024: Capacitor09
+    2300026: Capacitor10
+    2300028: Capacitor11
+    2300030: Capacitor12
+    2300032: Capacitor13
+    2300034: Capacitor14
+    2300036: Capacitor15
+    2300038: Capacitor16
+    2300040: Capacitor17
+    2300042: Capacitor18
+    2300044: Capacitor19
+    2300046: Capacitor20
+    2300048: Capacitor21
+    2300050: Capacitor22
+    2300052: Capacitor23
+    2300054: Capacitor24
+    2300056: Capacitor25
+    2300058: Capacitor26
+    2300060: Capacitor27
+    2300062: Capacitor28
+    2300064: Capacitor29
+    2300066: Capacitor30
+    2300068: Capacitor31
+    2300070: Capacitor32
+    2300072: Capacitor33
+    2300074: Capacitor34
+    2300076: Capacitor35
+    2300078: Capacitor36
+    2300080: Capacitor37
+    2300082: Capacitor38
+    2300084: CARRERA
+    2300086: Disc
+    2300088: front lamps
+    2300090: left door glass
+    2300092: left mirror
+    2300094: left_door
+    2300096: left_door_gloss
+    2300098: matte1
+    2300100: MIRRORS
+    2300102: rear lamps
+    2300104: right door glass
+    2300106: right mirror
+    2300108: right_door
+    2300110: right_door_gloss
+    2300112: rim003
+    2300114: rim004
+    2300116: rim1
+    2300118: rim2
+    2300120: spoiler1
+    2300122: spoiler2
+    2300124: steering_wheel
+    2300126: TrackBase
+    2300128: tyre003
+    2300130: tyre004
+    2300132: tyre1
+    2300134: tyre2
+    2300136: windows
+    3300000: brakes003
+    3300002: brakes004
+    3300004: brakes1
+    3300006: brakes2
+    3300008: Capacitor01
+    3300010: Capacitor02
+    3300012: Capacitor03
+    3300014: Capacitor04
+    3300016: Capacitor05
+    3300018: Capacitor06
+    3300020: Capacitor07
+    3300022: Capacitor08
+    3300024: Capacitor09
+    3300026: Capacitor10
+    3300028: Capacitor11
+    3300030: Capacitor12
+    3300032: Capacitor13
+    3300034: Capacitor14
+    3300036: Capacitor15
+    3300038: Capacitor16
+    3300040: Capacitor17
+    3300042: Capacitor18
+    3300044: Capacitor19
+    3300046: Capacitor20
+    3300048: Capacitor21
+    3300050: Capacitor22
+    3300052: Capacitor23
+    3300054: Capacitor24
+    3300056: Capacitor25
+    3300058: Capacitor26
+    3300060: Capacitor27
+    3300062: Capacitor28
+    3300064: Capacitor29
+    3300066: Capacitor30
+    3300068: Capacitor31
+    3300070: Capacitor32
+    3300072: Capacitor33
+    3300074: Capacitor34
+    3300076: Capacitor35
+    3300078: Capacitor36
+    3300080: Capacitor37
+    3300082: Capacitor38
+    3300084: CARRERA
+    3300086: Disc
+    3300088: front lamps
+    3300090: left door glass
+    3300092: left mirror
+    3300094: left_door
+    3300096: left_door_gloss
+    3300098: matte1
+    3300100: MIRRORS
+    3300102: rear lamps
+    3300104: right door glass
+    3300106: right mirror
+    3300108: right_door
+    3300110: right_door_gloss
+    3300112: rim003
+    3300114: rim004
+    3300116: rim1
+    3300118: rim2
+    3300120: spoiler1
+    3300122: spoiler2
+    3300124: steering_wheel
+    3300126: TrackBase
+    3300128: tyre003
+    3300130: tyre004
+    3300132: tyre1
+    3300134: tyre2
+    3300136: windows
+    4300000: CARRERA
+    4300002: matte1
+    4300004: steering_wheel
+    4300006: MIRRORS
+    4300008: rear lamps
+    4300010: front lamps
+    4300012: brakes1
+    4300014: rim1
+    4300016: tyre1
+    4300018: brakes004
+    4300020: rim004
+    4300022: tyre004
+    4300024: brakes003
+    4300026: rim003
+    4300028: tyre003
+    4300030: brakes2
+    4300032: rim2
+    4300034: tyre2
+    4300036: windows
+    4300038: left_door_gloss
+    4300040: left_door
+    4300042: left mirror
+    4300044: left door glass
+    4300046: right_door_gloss
+    4300048: right_door
+    4300050: right door glass
+    4300052: right mirror
+    4300054: spoiler1
+    4300056: spoiler2
+    4300058: Disc
+    4300060: TrackBase
+    4300062: Capacitor01
+    4300064: Capacitor02
+    4300066: Capacitor03
+    4300068: Capacitor04
+    4300070: Capacitor05
+    4300072: Capacitor06
+    4300074: Capacitor07
+    4300076: Capacitor08
+    4300078: Capacitor09
+    4300080: Capacitor10
+    4300082: Capacitor11
+    4300084: Capacitor12
+    4300086: Capacitor13
+    4300088: Capacitor14
+    4300090: Capacitor15
+    4300092: Capacitor16
+    4300094: Capacitor17
+    4300096: Capacitor18
+    4300098: Capacitor19
+    4300100: Capacitor20
+    4300102: Capacitor21
+    4300104: Capacitor22
+    4300106: Capacitor23
+    4300108: Capacitor24
+    4300110: Capacitor25
+    4300112: Capacitor26
+    4300114: Capacitor27
+    4300116: Capacitor28
+    4300118: Capacitor29
+    4300120: Capacitor30
+    4300122: Capacitor31
+    4300124: Capacitor32
+    4300126: Capacitor33
+    4300128: Capacitor34
+    4300130: Capacitor35
+    4300132: Capacitor36
+    4300134: Capacitor37
+    4300136: Capacitor38
+    9500000: //RootNode
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CapacitorsMat
+    second: {fileID: 2100000, guid: 1f459ee6149ff774cb6b5d83a7269318, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circuit01_Corner30Mat
+    second: {fileID: 2100000, guid: fed96ccf829059c44bf837ec3b6fc1ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Circuit01_Corner90Mat
+    second: {fileID: 2100000, guid: 7fe6fdacb1cf3e8479d01ce815de9189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CircuitMat
+    second: {fileID: 2100000, guid: ad6834044087c1a4098951bc2d5673c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default_Material
+    second: {fileID: 2100000, guid: efd0abb994394d44b809278a35c4b461, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DiscMat
+    second: {fileID: 2100000, guid: 3d241a08f16137e4db96f4dd317c40a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GuideRailMat
+    second: {fileID: 2100000, guid: dd5c38d235e88654cbdf9fb2f9c56f85, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RainbowPanelMat
+    second: {fileID: 2100000, guid: 9a216e632396c6747836dc1af9a3f9ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: RibbonCableMat
+    second: {fileID: 2100000, guid: c6e870892776a9b43a7aa591b878edf6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: e20ecf5cc007a7643a993ce1dbd367fc, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1.5
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.015
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
